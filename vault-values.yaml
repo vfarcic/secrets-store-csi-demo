@@ -1,0 +1,7 @@
+server:
+  dev:
+    enabled: true
+injector:
+  enabled: false
+csi:
+  enabled: true
